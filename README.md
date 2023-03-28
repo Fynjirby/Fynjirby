@@ -1,3 +1,4 @@
 ### Fynjirby there 👋
 
-I am programmer. i can write code on Python, C#, HTML.
+I am programmer. I can write code on Python, C#, HTML.
+My projects: On GitHub, and on https://dfgz.itch.io.
