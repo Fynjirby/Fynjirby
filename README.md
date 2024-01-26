@@ -1,5 +1,7 @@
-### Fynjirby not there 👋
+### Fynjirby isn't there 👋
 
-I am programmer. I can write code on Python, C#, HTML.
-My projects: On GitHub, and on https://dfgz.itch.io.
-My social networks: https://twitter.com/fynjirby, https://reddit/user/fynjirby and GitHub
+I'm writing code on little bit Golang, for games C#, HTML and CSS
+
+Here is my projects! And you can see my games on https://dfgz.itch.io
+
+My social: https://twitter.com/fynjirby | https://reddit/user/bannedmuh | https://steamcommunity.com/id/Egor4787
