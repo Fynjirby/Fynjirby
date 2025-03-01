@@ -1,7 +1,5 @@
-## Hey! I am Egor Fynjirby
-Here, on my GitHub page, you can see my stack, some of my projects and recommendations and this cool cat on watermelon pic
-
-![cat_on_watermelon cuz why not](https://github.com/user-attachments/assets/1cfcf3af-0e4e-498a-829d-742b06b3a33d)
+## <img src="https://github.com/user-attachments/assets/df4d8866-97a3-4139-bf28-7416a31c31f6" alt="soulja-boy-pepe" width="25" height="25"> Hey! I am Egor Fynjirby
+Here, on my GitHub page, you can see my stack, some of my projects and recommendations
 
 
 #### Stack
@@ -32,6 +30,8 @@ Here, on my GitHub page, you can see my stack, some of my projects and recommend
 - [Please don’t theme our apps](https://stopthemingmy.app)
 - [Learn JS](https://javascript.info)
 
+#
+### <img src="https://github.com/user-attachments/assets/0209af90-6585-4b22-b061-f0002d2e8268" alt="soulja-boy-pepe" width="100" height="50">
 #### Projects & Other Staff
 ##### [DFGZ Games](dfgz.itch.io)
 ### 👈👇
