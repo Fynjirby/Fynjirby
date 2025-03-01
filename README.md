@@ -1,7 +1,8 @@
 ## Hey! I am Egor Fynjirby
 Here, on my GitHub page, you can see my stack, some of my projects and recommendations and this cool cat on watermelon pic
 
-![cat_on_watermelon cuz why not](https://github.com/user-attachments/assets/f9bab2a8-1fb8-4e92-b59a-a396796ba1ef)
+![cat_on_watermelon cuz why not](https://github.com/user-attachments/assets/1cfcf3af-0e4e-498a-829d-742b06b3a33d)
+
 
 #### Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
