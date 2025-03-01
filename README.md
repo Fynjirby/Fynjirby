@@ -31,7 +31,7 @@ Here, on my GitHub page, you can see my stack, some of my projects and recommend
 - [Learn JS](https://javascript.info)
 
 #
-### <img src="https://github.com/user-attachments/assets/0209af90-6585-4b22-b061-f0002d2e8268" alt="soulja-boy-pepe" width="100" height="50">
+### <img src="https://github.com/user-attachments/assets/91e37d0d-5520-4fbb-ad50-9939db896853" alt="soulja-boy-pepe" width="180" height="90">
 #### Projects & Other Staff
 ##### [DFGZ Games](dfgz.itch.io)
 ### 👈👇
