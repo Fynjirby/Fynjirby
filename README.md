@@ -1,5 +1,5 @@
 ## <img src="https://github.com/user-attachments/assets/df4d8866-97a3-4139-bf28-7416a31c31f6" alt="soulja-boy-pepe" width="25" height="25"> Hey! I am Egor Fynjirby
-Here, on my GitHub page, you can see my stack, some of my projects and recommendations
+Here, on my GitHub page, you can see my stack (including what I am learning now), some of my projects and recommendations
 <br />
 // all badges are clickable
 
