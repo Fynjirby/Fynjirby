@@ -29,6 +29,7 @@ Here, on my GitHub page, you can see my stack (including what I am learning now)
 #### Recommendations
 - [W3Schools](https://w3schools.com/)
 - [MDN Web Docs](https://dev.mozilla.org/)
+- [Short Docs](https://github.com/fynjirby/short_docs/)
 - [Please don’t theme our apps](https://stopthemingmy.app/)
 - [Learn JS](https://javascript.info/)
 
