@@ -12,6 +12,7 @@ Here, on my GitHub page, you can see my stack (including what I am learning now)
 
 #### Software
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](https://www.vim.org/)
+[![Alacritty](https://img.shields.io/badge/Alacritty-F46D01.svg?logo=alacritty&logoColor=white)](https://alacritty.org/)
 [![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](https://github.com/tmux/tmux/wiki/)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](https://chrome.com/)
 [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](https://brew.sh/)
