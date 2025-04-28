@@ -30,6 +30,8 @@ Here, on my GitHub page, you can see my stack (including what I am learning now)
 - [Please don’t theme our apps](https://stopthemingmy.app/)
 - [Learn JS](https://javascript.info/)
 - [Bun JS](https://bun.sh/)
+  
+- [my dotfiles](https://github.com/fynjirby/dotfiles/)
 
 #
 ### <img src="https://github.com/user-attachments/assets/91e37d0d-5520-4fbb-ad50-9939db896853" alt="soulja-boy-pepe" width="180" height="90">
