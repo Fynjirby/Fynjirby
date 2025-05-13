@@ -1,7 +1,7 @@
 ## <img src="https://github.com/user-attachments/assets/df4d8866-97a3-4139-bf28-7416a31c31f6" alt="soulja-boy-pepe" width="25" height="25"> Hey! I am Egor Fynjirby
 Here, on my GitHub page, you can see my stack (including what I am learning now), some of my projects and recommendations
 <br />
-// all badges are clickable
+`// all badges are clickable`
 
 #### Stack
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](https://go.dev/)
