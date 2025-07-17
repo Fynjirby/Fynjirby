@@ -19,6 +19,7 @@ Here, on my GitHub page, you can see my stack (including what I am learning now)
 
 #### OS
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](https://apple.com/macos/)
+[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white)](https://manjaro.org/)
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](https://fedoraproject.org/)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](https://apple.com/ios/)
