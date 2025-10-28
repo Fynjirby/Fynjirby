@@ -12,6 +12,11 @@ Here, on my GitHub page, you can see my stack and some of my projects
 
 Also see [my dotfiles](https://github.com/fynjirby/dotfiles/)
 
+<a href="https://github.com/fynjirby/github-stats">
+<img src="https://github.com/fynjirby/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/fynjirby/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
 #
 ### <img src="https://github.com/user-attachments/assets/5ea83eb2-92f1-4ef6-80b2-52ac04032687" alt="monkey-typing-gif" width="220" height="120">
 
