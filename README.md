@@ -5,7 +5,7 @@ Here, on my GitHub page, you can see my stack and some of my projects
 `// all badges are clickable`
 
 ### Stack 
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](https://go.dev/) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML/) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](https://en.wikipedia.org/wiki/CSS/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://en.wikipedia.org/wiki/JavaScript/)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](https://go.dev/) [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](https://www.c-language.org/) 
 
 ### Tools (based btw)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io/) [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/) 
