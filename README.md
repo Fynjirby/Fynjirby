@@ -8,7 +8,7 @@ Here, on my GitHub page, you can see my stack and some of my projects
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](https://go.dev/) [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](https://www.c-language.org/) 
 
 ### Tools (based btw)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io/) [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/) 
+[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/) [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io/) 
 
 Also see [my dotfiles](https://github.com/fynjirby/dotfiles/)
 
